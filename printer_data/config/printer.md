@@ -1,0 +1,11 @@
+- [Klipper Docs](https://www.klipper3d.org/Overview.html)
+- [Mainsail Docs](https://docs.mainsail.xyz/)
+- [Moonraker Docs](https://moonraker.readthedocs.io/en/latest/)
+- [KlipperScreen](https://klipperscreen.readthedocs.io/en/latest/)
+- [Katapult Bootloader](https://github.com/Arksine/katapult)
+- [Shake&Tune](https://github.com/Frix-x/klippain-shaketune/blob/main/docs/README.md)
+- [TMC Autotune](https://github.com/andrewmcgr/klipper_tmc_autotune)
+- [Cartohrapher 3D Docs](https://docs.cartographer3d.com/)
+
+- [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+- [Ellis Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
